@@ -1,0 +1,9 @@
+# build/archive artifacts
+*.zip
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# node (from local tooling, not part of the site)
+node_modules/
